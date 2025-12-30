@@ -1,9 +1,22 @@
-## Hi there 👋
-- 🔭 I’m currently working on building strong programming fundamentals
-- 🌱 I’m currently learning Python, Data Structures, and Algorithms
-- 👯 I’m looking to collaborate on beginner-friendly Python projects
-- 🤔 I’m looking for help with algorithmic problem solving and clean code
-- 💬 Ask me about Python basics, C/C++, or getting started with programming
-- 📫 How to reach me: GitHub DM
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I study software engineering while pursuing freelance video editing
+## Hi, I'm Unho
+
+Software student (AI-oriented) based in Seoul, South Korea.  
+Currently focused on building strong fundamentals in programming and problem solving.
+
+## Focus Areas
+- Python for problem solving
+- Data Structures & Algorithms
+- Computer Science fundamentals
+
+## Tech Stack
+- Languages: Python, C, C++, Java
+- Tools: Git, GitHub, VS Code
+
+## Currently
+- Practicing algorithmic problem solving with Python
+- Implementing core data structures from scratch
+- Building small projects to apply fundamentals
+
+## Goals
+- Become a strong software engineer with an AI-focused path
+- Grow through consistent practice and well-structured learning
