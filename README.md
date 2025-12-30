@@ -2,7 +2,7 @@
 
 Software student (AI-oriented) based in Seoul, South Korea.  
 Currently focused on building strong fundamentals in programming and problem solving.
-# Focus Areas
+### Focus Areas
 - Python for problem solving
 - Data Structures & Algorithms
 - Computer Science fundamentals
