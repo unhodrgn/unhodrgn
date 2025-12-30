@@ -6,13 +6,13 @@ Currently focused on building strong fundamentals in programming and problem sol
 - Python for problem solving
 - Data Structures & Algorithms
 - Computer Science fundamentals
-# Tech Stack
+### Tech Stack
 - Languages: Python, C, C++, Java
 - Tools: Git, GitHub, VS Code
-# Currently
+### Currently
 - Practicing algorithmic problem solving with Python
 - Implementing core data structures from scratch
 - Building small projects to apply fundamentals
-# Goals
+### Goals
 - Become a strong software engineer with an AI-focused path
 - Grow through consistent practice and well-structured learning
